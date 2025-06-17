@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pranshul J
 
 💼 **Aspiring Business & Data Analyst**  
-🎓 **BBA Student** at H.N.B.G.U, Dehradu
+🎓 **BBA Student** at H.N.B.G.U, 📍Dehradu
 
 📊 Proficient in **SQL**, **Excel**, and **Power BI** — passionate about transforming raw data into meaningful stories  
 📚 Currently enhancing my skills in data analytics to solve real-world business problems  
