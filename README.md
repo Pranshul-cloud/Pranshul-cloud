@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pranshul J
+# 👋 Hi, I'm Pranshul Joshi
 
 💼 **Aspiring Business & Data Analyst**  
 🎓 **BBA Student** at H.N.B.G.U, Dehradun  
