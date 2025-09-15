@@ -25,6 +25,6 @@
 ---
 
 ### 📫 Get in Touch  
-- 📧 Email: [pranshuljoshi59@gmail.com](mailto:pranshuljoshi59@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/pranshul-joshi-492594354](https://www.linkedin.com/in/pranshul-joshi-492594354)
-- 📊 Portfolio: [pranshul-analytics](https://preview--pranshul-analytics-hub-05.lovable.app/)
+- 📧 **Email**: [pranshuljoshi59@gmail.com](mailto:pranshuljoshi59@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/pranshul-joshi-492594354](https://www.linkedin.com/in/pranshul-joshi-492594354)
+- 📊 **Portfolio**: [pranshul-analytics](https://preview--pranshul-analytics-hub-05.lovable.app/)
