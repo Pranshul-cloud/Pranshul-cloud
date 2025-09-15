@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pranshul Joshi
 
-💼 **Aspiring Data Analyst**  
+💼 **Data Analyst**  
 🎓 **BBA Student** at H.N.B.G.U, Dehradun  
 
 📊 Proficient in **SQL**, **Excel**, **Power BI** & **Python** — passionate about transforming raw data into meaningful stories  
