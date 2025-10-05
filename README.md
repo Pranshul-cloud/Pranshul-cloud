@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Pranshul 
+# 👋 Hi, I'm Pranshul
 
- 💼 **Data Analyst | BBA Student**  
- 🎓 H.N.B.G.U, Dehradun  
+💼 **Data Analyst | BBA Student**  
+🎓 H.N.B.G.U, Dehradun  
 
 ---
 
 ### About Me
-- Final-year BBA student.
-- Currently Exploring the world of Analytics.
-- Curious by nature Crazy by Mind.
-- Always looking for projects , Internships and cool people to learn from.
+- Final-year BBA student exploring the world of Analytics.  
+- Curious by nature, crazy by mind.  
+- Always looking for projects, internships, and cool people to learn from.
+
 ---
 
-### 🛠️ Tool stack & Platforms
+### 🛠️ Tool Stack & Platforms
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" height="60"/>
@@ -33,32 +33,44 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" height="60"/>
 </p>
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranshul-cloud&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshul-cloud&layout=compact&theme=dark" alt="Top Languages" height="180"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Pranshul-cloud">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranshul-cloud&theme=dark&hide_border=true" alt="Streak Stats" height="180"/>
+  </a>
+</p>
 
 ---
 
 ## 📫 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/pranshul-joshi-492594354" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Pranshul-cloud" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="35" height="35"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:pranshuljoshi59@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="35" height="35"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.kaggle.com/pranshuljoshi" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2306/2306135.png" alt="Kaggle" width="30" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2306/2306135.png" alt="Kaggle" width="35" height="35"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/pranshul_codes/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="35" height="35"/>
   </a>
 </p>
----
 
