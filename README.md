@@ -35,12 +35,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshul-cloud&layout=compact&theme=dark)
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Pranshul-cloud&theme=dark&hide_border=true)](https://github.com/Pranshul-cloud)
 
----
-
-### 📫 Connect with Me
-- 📧 [Email](mailto:pranshuljoshi59@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pranshul-joshi-492594354)  
-- 🌐 [Portfolio](https://preview--pranshul-analytics-hub-05.lovable.app/)  
 
 ---
 
