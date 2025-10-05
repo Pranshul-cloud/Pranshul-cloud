@@ -44,10 +44,22 @@
 
 ---
 
-### 📫 Connect with Me
+### 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranshuljoshi59@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranshul-joshi-492594354)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://preview--pranshul-analytics-hub-05.lovable.app/)
-
-⭐ If you like my work, don’t forget to **follow me** on GitHub!
+<p align="center">
+  <a href="mailto:pranshuljoshi59@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pranshul-joshi-492594354" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://preview--pranshul-analytics-hub-05.lovable.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" alt="Portfolio" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Pranshul-cloud" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="50" height="50"/>
+  </a>
+</p>
