@@ -34,8 +34,6 @@
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" height="60"/>
 </p>
 <p align="center">
-  <b>Python</b> &nbsp;&nbsp; <b>SQL</b> &nbsp;&nbsp; <b>Excel</b> &nbsp;&nbsp; <b>Power BI</b> &nbsp;&nbsp; <b>GitHub</b> &nbsp;&nbsp; <b>Kaggle</b> &nbsp;&nbsp; <b>Canva</b> &nbsp;&nbsp; <b>Word</b> &nbsp;&nbsp; <b>PowerPoint</b>
-</p>
 
 ---
 
