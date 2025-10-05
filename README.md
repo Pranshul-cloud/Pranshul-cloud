@@ -37,28 +37,17 @@
 
 ---
 
-![GitHub Contributions](link-to-your-uploaded-screenshot.png)
-
----
-
-### 🌟 Projects
-
-| Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| **Sales Dashboard** | Excel, Power BI | Designed an interactive sales dashboard for tracking revenue & KPIs. |
-| **Customer Segmentation** | Python, SQL | Used clustering techniques to segment customers for targeted marketing campaigns. |
-| **Portfolio Analysis** | Python, Excel | Analyzed investment portfolios to suggest optimal asset allocation strategies. |
-| **E-commerce Analytics** | SQL, Power BI | Built reports to monitor website traffic, product performance & conversions. |
-
-*More projects available in my [Portfolio](https://preview--pranshul-analytics-hub-05.lovable.app/).*
-
----
-
 ### 📫 Connect with Me
 - 📧 [Email](mailto:pranshuljoshi59@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/pranshul-joshi-492594354)  
 - 🌐 [Portfolio](https://preview--pranshul-analytics-hub-05.lovable.app/)  
 
 ---
+
+### 📫 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranshuljoshi59@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranshul-joshi-492594354)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://preview--pranshul-analytics-hub-05.lovable.app/)
 
 ⭐ If you like my work, don’t forget to **follow me** on GitHub!
