@@ -33,6 +33,7 @@
 
 ![Pranshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranshul-cloud&show_icons=true&theme=dark&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshul-cloud&layout=compact&theme=dark)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Pranshul-cloud&theme=dark&hide_border=true)](https://github.com/Pranshul-cloud)
 
 ---
 
