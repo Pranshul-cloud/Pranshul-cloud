@@ -54,23 +54,26 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranshul-joshi-492594354" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Pranshul-cloud" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="35" height="35"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:pranshuljoshi59@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="35" height="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://preview--pranshul-analytics-hub-05.lovable.app/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Portfolio" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.kaggle.com/pranshuljoshi" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2306/2306135.png" alt="Kaggle" width="35" height="35"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2306/2306135.png" alt="Kaggle" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/pranshul_codes/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="35" height="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50"/>
   </a>
 </p>
-
