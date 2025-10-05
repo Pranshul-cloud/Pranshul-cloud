@@ -70,7 +70,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.kaggle.com/pranshuljoshi" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2306/2306135.png" alt="Kaggle" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/pranshul_codes/" target="_blank">
