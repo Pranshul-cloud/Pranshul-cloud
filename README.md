@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Pranshul Joshi
 
-💼 **Aspiring Data Analyst | BBA Student**  
+💼 **Data Analyst | BBA Student**  
 🎓 H.N.B.G.U, Dehradun  
 
 ---
 
 ### About Me
-I transform raw data into actionable business insights. I have hands-on experience with **SQL, Excel, Power BI, and Python**, and I’m passionate about solving real-world business problems through data-driven decision-making.  
-
-I build **projects that showcase practical impact**—from dashboards to predictive analytics models—and continuously enhance my skills to become job-ready for the data analytics industry.  
-
+- Final-year BBA student.
+- Currently Exploring the world of Analytics.
+- Curious by nature Crazy by Mind.
+- Always looking for projects , Internships and cool people to learn from.
 ---
 
 ### 🛠️ Tech Stack
