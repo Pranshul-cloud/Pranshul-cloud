@@ -49,22 +49,30 @@
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:pranshuljoshi59@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp; 
   <a href="https://www.linkedin.com/in/pranshul-joshi-492594354" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp; 
   <a href="https://preview--pranshul-analytics-hub-05.lovable.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" height="40"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp; 
   <a href="https://github.com/Pranshul-cloud" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
+  </a>
+  &nbsp; 
+  <a href="https://www.kaggle.com/pranshuljoshi" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="40"/>
+  </a>
+  &nbsp; 
+  <a href="https://leetcode.com/u/pranshul_codes/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="40"/>
   </a>
 </p>
