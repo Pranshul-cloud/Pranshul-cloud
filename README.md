@@ -12,7 +12,7 @@
 - Always looking for projects , Internships and cool people to learn from.
 ---
 
-### 🛠️ My Skills & Tools
+### 🛠️ Tool stack & Platforms
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" height="60"/>
