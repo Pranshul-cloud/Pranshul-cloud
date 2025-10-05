@@ -31,8 +31,8 @@
 
 ### 📊 GitHub Stats
 
-![Pranshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranshuljoshi59&theme=dark&show_icons=true&count_private=true&hide=prs,issues)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshuljoshi59&theme=dark&layout=compact)
+![Pranshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranshul-cloud&show_icons=true&theme=dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshul-cloud&layout=compact&theme=dark)
 
 ---
 
