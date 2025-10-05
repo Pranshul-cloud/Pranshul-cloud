@@ -6,9 +6,9 @@
 ---
 
 ### About Me
-- Final-year BBA student exploring the world of Analytics.  
-- Curious by nature, crazy by mind.  
-- Always looking for projects, internships, and cool people to learn from.
+- 🎓Final-year BBA student exploring the world of Analytics.  
+- 🔍Crazy by nature, Curious by mind.  
+- 🤝Always looking for projects, internships, and cool people to learn from.
 
 ---
 
