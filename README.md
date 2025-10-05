@@ -33,8 +33,19 @@
 
 ![Pranshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranshul-cloud&show_icons=true&theme=dark&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshul-cloud&layout=compact&theme=dark)
-- [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Pranshul-cloud&theme=dark&hide_border=true)](https://github.com/Pranshul-cloud)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Pranshul-cloud&theme=dark&hide_border=true)](https://github.com/Pranshul-cloud)
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranshul-cloud&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="180"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshul-cloud&layout=compact&theme=dark" alt="Top Languages" height="180"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Pranshul-cloud">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranshul-cloud&theme=dark&hide_border=true" alt="Streak Stats" height="180"/>
+  </a>
+</p>
 
 ---
 
