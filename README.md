@@ -14,19 +14,31 @@
 
 ### 🛠️ Tech Stack
 
-#### Programming & Analytics
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+### 🛠️ Programming & Analytics
 
-#### Tools & Platforms
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Word](https://img.shields.io/badge/-Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" height="50"/>
+</p>
 
+### 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" height="50"/>
+</p>
 ---
 
 <p align="center">
@@ -34,8 +46,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshul-cloud&layout=compact&theme=dark" alt="Top Languages" height="180"/>
   &nbsp;&nbsp;&nbsp;
- -
- 
   <a href="https://github.com/Pranshul-cloud">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranshul-cloud&theme=dark&hide_border=true" alt="Streak Stats" height="180"/>
   </a>
