@@ -1,21 +1,26 @@
 # 👋 Hi, I'm Pranshul Joshi
 
-💼 **Data Analyst**  
-🎓 **BBA Student** at H.N.B.G.U, Dehradun  
-
-📊 Proficient in **SQL**, **Excel**, **Power BI** & **Python** — passionate about transforming raw data into meaningful stories  
-📚 Currently enhancing my skills in data analytics to solve real-world business problems  
-🚀 Focused on building impactful, real-world projects that demonstrate practical business value  
-🌟 Eager to take on freelance, internship, or entry-level roles where I can apply my skills and continue learning in real-world environments
+💼 **Aspiring Data Analyst | BBA Student**  
+🎓 H.N.B.G.U, Dehradun  
 
 ---
 
-### 🛠️ Tools & Technologies
+### About Me
+I transform raw data into actionable business insights. I have hands-on experience with **SQL, Excel, Power BI, and Python**, and I’m passionate about solving real-world business problems through data-driven decision-making.  
 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+I build **projects that showcase practical impact**—from dashboards to predictive analytics models—and continuously enhance my skills to become job-ready for the data analytics industry.  
+
+---
+
+### 🛠️ Tech Stack
+
+#### Programming & Analytics
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+#### Tools & Platforms
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
@@ -24,7 +29,31 @@
 
 ---
 
-### 📫 Get in Touch  
-- 📧 **Email**: [pranshuljoshi59@gmail.com](mailto:pranshuljoshi59@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/pranshul-joshi-492594354](https://www.linkedin.com/in/pranshul-joshi-492594354)
-- 📊 **Portfolio**: [pranshul-analytics](https://preview--pranshul-analytics-hub-05.lovable.app/)
+### 📊 GitHub Stats
+
+![Pranshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranshuljoshi59&theme=dark&show_icons=true&count_private=true&hide=prs,issues)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshuljoshi59&theme=dark&layout=compact)
+
+---
+
+### 🌟 Projects
+
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| **Sales Dashboard** | Excel, Power BI | Designed an interactive sales dashboard for tracking revenue & KPIs. |
+| **Customer Segmentation** | Python, SQL | Used clustering techniques to segment customers for targeted marketing campaigns. |
+| **Portfolio Analysis** | Python, Excel | Analyzed investment portfolios to suggest optimal asset allocation strategies. |
+| **E-commerce Analytics** | SQL, Power BI | Built reports to monitor website traffic, product performance & conversions. |
+
+*More projects available in my [Portfolio](https://preview--pranshul-analytics-hub-05.lovable.app/).*
+
+---
+
+### 📫 Connect with Me
+- 📧 [Email](mailto:pranshuljoshi59@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pranshul-joshi-492594354)  
+- 🌐 [Portfolio](https://preview--pranshul-analytics-hub-05.lovable.app/)  
+
+---
+
+⭐ If you like my work, don’t forget to **follow me** on GitHub!
