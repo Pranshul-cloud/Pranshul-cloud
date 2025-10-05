@@ -37,42 +37,28 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranshul-cloud&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="180"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshul-cloud&layout=compact&theme=dark" alt="Top Languages" height="180"/>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Pranshul-cloud">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranshul-cloud&theme=dark&hide_border=true" alt="Streak Stats" height="180"/>
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pranshul-joshi-492594354" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Pranshul-cloud" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:pranshuljoshi59@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/pranshuljoshi" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2306/2306135.png" alt="Kaggle" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/pranshul_codes/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"/>
   </a>
 </p>
-
 ---
 
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:pranshuljoshi59@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
-  </a>
-  &nbsp; 
-  <a href="https://www.linkedin.com/in/pranshul-joshi-492594354" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
-  </a>
-  &nbsp; 
-  <a href="https://preview--pranshul-analytics-hub-05.lovable.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" height="40"/>
-  </a>
-  &nbsp; 
-  <a href="https://github.com/Pranshul-cloud" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
-  </a>
-  &nbsp; 
-  <a href="https://www.kaggle.com/pranshuljoshi" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="40"/>
-  </a>
-  &nbsp; 
-  <a href="https://leetcode.com/u/pranshul_codes/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="40"/>
-  </a>
-</p>
