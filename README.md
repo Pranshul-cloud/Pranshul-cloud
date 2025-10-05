@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Pranshul Joshi
+# 👋 Hi, I'm Pranshul 
 
-💼 **Data Analyst | BBA Student**  
-🎓 H.N.B.G.U, Dehradun  
+ 💼 **Data Analyst | BBA Student**  
+ 🎓 H.N.B.G.U, Dehradun  
 
 ---
 
