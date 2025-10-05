@@ -37,7 +37,7 @@
 
 ---
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Pranshul-cloud&theme=dark&hide_border=true)
+![GitHub Contributions](link-to-your-uploaded-screenshot.png)
 
 ---
 
